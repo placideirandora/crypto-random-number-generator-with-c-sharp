@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace crypto_practice
+namespace crypto_random_number_generator
 {
     class Program
     {
