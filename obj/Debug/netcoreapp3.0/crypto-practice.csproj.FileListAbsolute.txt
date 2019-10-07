@@ -1,0 +1,11 @@
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice.deps.json
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice.runtimeconfig.json
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice.runtimeconfig.dev.json
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice.dll
+/Users/placideirandora/Coding/C#/crypto-practice/bin/Debug/netcoreapp3.0/crypto-practice.pdb
+/Users/placideirandora/Coding/C#/crypto-practice/obj/Debug/netcoreapp3.0/crypto-practice.csprojAssemblyReference.cache
+/Users/placideirandora/Coding/C#/crypto-practice/obj/Debug/netcoreapp3.0/crypto-practice.AssemblyInfoInputs.cache
+/Users/placideirandora/Coding/C#/crypto-practice/obj/Debug/netcoreapp3.0/crypto-practice.AssemblyInfo.cs
+/Users/placideirandora/Coding/C#/crypto-practice/obj/Debug/netcoreapp3.0/crypto-practice.dll
+/Users/placideirandora/Coding/C#/crypto-practice/obj/Debug/netcoreapp3.0/crypto-practice.pdb
