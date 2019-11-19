@@ -6,7 +6,7 @@ A C#.NET Console Application Which Generates Cryptographic Random Numbers That A
 ### Clone The Project
 
 ```
-$ git clone https://github.com/placideirandora/crypto-random-number-generator
+$ git clone https://github.com/placideirandora/crypto-random-number-generator-with-c-sharp
 ```
 
 ### Install C# Extension
